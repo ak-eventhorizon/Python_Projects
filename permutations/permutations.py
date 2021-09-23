@@ -11,6 +11,5 @@ def permutations(string: str) -> list:
     return list(no_duplicates_combinations)
 
 
-
 if __name__ == '__main__':
     print(permutations('aabb'))

@@ -1,7 +1,7 @@
 result = list()
 
 
-def permutations(string: str, index=0):
+def permutations(string, index=0):
     """Recursion implementation of string permutations"""
 
     # когда добрались до последней позиции - возвращаем пермутацию
