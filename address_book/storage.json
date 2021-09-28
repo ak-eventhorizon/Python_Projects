@@ -1,0 +1,37 @@
+{
+    "count_id": 6,
+    "persons": [
+        {
+            "id": "1",
+            "first_name": "John",
+            "last_name": "Smith",
+            "address": "London, Elm st. 12/b",
+            "telephone": "8-800-555-66-66",
+            "email": "john@mail.com"
+        },
+        {
+            "id": "2",
+            "first_name": "Jane",
+            "last_name": "Smith",
+            "address": "New-York",
+            "telephone": "8-900-888-12-34",
+            "email": "jane@gmail.com"
+        },
+        {
+            "id": "4",
+            "first_name": "Arthur",
+            "last_name": "Fleck",
+            "address": "Gotham, Joke street 13",
+            "telephone": "0-000-00-00-00",
+            "email": "WhySoSerious@arkham.com"
+        },
+        {
+            "id": "6",
+            "first_name": "Bruce",
+            "last_name": "Wayne",
+            "address": "Gotham, Bat manor 1/1",
+            "telephone": "555-55-55",
+            "email": "IamNotBatman@gotham.com"
+        }
+    ]
+}
