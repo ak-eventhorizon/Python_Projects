@@ -1,0 +1,14 @@
+diadoc.kontur.ru                        46.17.200.242
+en-diadoc.kontur.ru                     46.17.200.242
+edoci.kontur.ru                         46.17.200.242
+ceodoc.kontur.ru                        46.17.200.242
+bezbumag.kontur.ru                      46.17.200.242
+connector.kontur.ru                     46.17.200.242
+claims.kontur.ru                        46.17.200.242
+akibank.kontur.ru                       46.17.200.242
+edo-life.ru                             46.17.200.242
+edifactoring.ru                         46.17.200.242
+teledoc.pro                             91.227.34.31
+diadoc-connector-api.kontur.ru          46.17.206.14
+diadoc-public-connector-api.kontur.ru   46.17.200.240
+diadoc-api.kontur.ru                    46.17.206.14
